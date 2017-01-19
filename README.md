@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/MadisonRobinson/MadisonRob
 
 ## Trial 
 
-[Second](google.com)
+[Second](https://google.com)
 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
